@@ -27,6 +27,11 @@
   - Database systems (MySQL, SQLlite, Snowflake Databases)
 
 ## My Projects
+- PHAB Accreditation Data Pipeline (Conceptual)
+  - Simulated the organization of large-scale public health data into structured spreadsheets using Python and Pandas.
+  - Focused on data validation and error-free formatting for accreditation compliance.
+  - [PHAB Accreditation Data Pipeline](https://github.com/DarkMythic1995/phab-accreditation)
+
 
 ## Stats
 
