@@ -27,6 +27,12 @@
   - Database systems (MySQL, SQLlite, Snowflake Databases)
 
 ## My Projects
+
+- **Medical Insurance Project**  
+  - Built a Python script to calculate insurance costs based on factors like age, sex, and BMI, showcasing function design and data processing skills.  
+  - Demonstrates my ability to handle structured data and apply computational logic, key for data analysis tasks.  
+  - [Medical Insurance Project](https://github.com/DarkMythic1995/medical-insurance-project)
+
 - PHAB Accreditation Data Pipeline (Conceptual)
   - Simulated the organization of large-scale public health data into structured spreadsheets using Python and Pandas.
   - Focused on data validation and error-free formatting for accreditation compliance.
