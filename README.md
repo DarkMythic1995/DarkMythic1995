@@ -4,10 +4,10 @@
 
 ### Hi there, I'm Maura! 👋
 
-- 📊 Aspiring Data Analyst and Enthusiast: Passionate about transforming raw data into actionable insights through meticulous collection, validation, and analysis.
-- 🔍 Problem Solver: Experienced in organizing large datasets and streamlining processes for efficiency and accuracy.
-- 📈 Impact-Driven: Contributed to public health accreditation and operational improvements through data management.
-- 📚 Lifelong Learner: Continuously exploring data tools, SQL, and analytics to drive meaningful outcomes.
+- Software Developer: Passionate about transforming raw data into actionable insights through meticulous collection, validation, and analysis.
+- Problem Solver: Experienced in organizing large datasets and streamlining processes for efficiency and accuracy.
+- Impact-Driven: Contributed to public health accreditation and operational improvements through data management.
+- Lifelong Learner: Continuously exploring data tools, SQL, and analytics to drive meaningful outcomes.
 
 ## Skills & Tools
 
@@ -46,7 +46,6 @@
 
 - 📫 **Email:** meighanmaura@gmail.com
 - 🔗 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/maura-meighan-a8876628a)
-- 🔗 **Resume:** [@resume goes here](resumehere)
 
 
 
