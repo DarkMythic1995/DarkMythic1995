@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dark-mythic2500&color=brightgreen&label=Profile%20Views)](https://github.com/dark-mythic2500)
 
-### Hi there, I'm Maura! 👋
+### Hi there, I'm Maura!
 
 - Software Developer: Passionate about transforming raw data into actionable insights through meticulous collection, validation, and analysis.
 - Problem Solver: Experienced in organizing large datasets and streamlining processes for efficiency and accuracy.
