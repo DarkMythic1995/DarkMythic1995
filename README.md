@@ -4,42 +4,44 @@
 
 ### Hi there, I'm Maura!
 
-- Software Developer: Passionate about transforming raw data into actionable insights through meticulous collection, validation, and analysis.
-- Problem Solver: Experienced in organizing large datasets and streamlining processes for efficiency and accuracy.
-- Impact-Driven: Contributed to public health accreditation and operational improvements through data management.
-- Lifelong Learner: Continuously exploring data tools, SQL, and analytics to drive meaningful outcomes.
-
-## Skills & Tools
-
-- **Data Analysis & Management:** 
-  - Data collection, validation, and organization
-  - Spreadsheet management (Excel, Google Sheets)
-  - Data entry and process automation
-
-- **Programming & Query Languages:**
-  - Python
-  - SQL (querying and database management)
-  - Basic R for statistical analysis
-
-- **Tools & Platforms:**
-  - Git & GitHub for version control
-  - Tableau for data visualization (learning)
-  - Database systems (MySQL, SQLlite, Snowflake Databases)
+I'm an IT Software Development student at Mid-State Technical College. I'm deeply engaged with my coursework that focuses on creating robust, 
+scalable solutions using C#, .NET, and relational databases, with hands-on experience in API integration and data management. Excited about 
+applying these skills to develop APIs for Data Science and Engineering, I’m committed to mastering the technical foundations of software engineering 
+to solve real-world problems.
 
 ## My Projects
 
-- **Medical Insurance Project**  
-  - Built a Python script to calculate insurance costs based on factors like age, sex, and BMI, showcasing function design and data processing skills.  
-  - Demonstrates my ability to handle structured data and apply computational logic, key for data analysis tasks.  
-  - [Medical Insurance Project](https://github.com/DarkMythic1995/medical-insurance-project)
+- **Personal Finance and Budget Tracking** (Cross-platform Mobile Application)
+  - A cross-platform mobile app developed in .NET MAUI and C# using MVVM design structure, integrating a RESTful API (ASP.NET Core) to manage transactions and budgets.
+    Uses SQLite (will be converting to JSON) for local storage and RapidAPI Alpha Vantage for real-time financial data, showcasing my ability to build end-to-end solutions.
+  - Skills: C#, .NET MAUI, ASP.NET Core, SQLite, API integration
+  - [Finance and Budgeting Mobile Application](https://github.com/DarkMythic1995/personal-finance-tracking-app)
+    
+- **Medical Insurance Calculator**  
+  - A Python-based project using Pandas to process demographic data and calculate insurance costs based on factors such as age, sex, and BMI. Demonstrating data cleaning,
+    computational logic, and structured problem-solving.
+  - Skills: Python, Pandas, data analysis
+  - [Medical Insurance Calculator](https://github.com/DarkMythic1995/medical-insurance-project)
 
-- PHAB Accreditation Data Pipeline (Conceptual)
-  - Simulated the organization of large-scale public health data into structured spreadsheets using Python and Pandas.
-  - Focused on data validation and error-free formatting for accreditation compliance.
-  - [PHAB Accreditation Data Pipeline](https://github.com/DarkMythic1995/phab-accreditation)
+## Skills & Tools
 
+- **Programming Languages:** 
+  - C# (.NET MAUI, ASP.NET Core)
+  - JavaScript, HTML, CSS (basic)
+  - Python (Pandas, NumPy)
+  - SQL (schema design, querying)
 
-## Stats
+- **Coursework Highlights:**
+  - Developing cross-platform mobile apps with .NET MAUI and C#, including a personal finance tracker with real-time API integration
+  - Building RESTful APIs with ASP.NET Core to support data-driven applications
+  - Exploring cloud platforms like AWS (EC2, S3) and preparing to learn Azure for scalable deployments
+
+- **Technologies & Tools:**
+  - ASP.NET Core for API development
+  - Relational Databases (MySQL, SQLite)
+  - Database systems (MySQL, SQLlite, Snowflake Databases)
+  - .NET MAUI for mobile app development
+  - Excel for data organization
 
 
 ## Connect with Me
@@ -50,4 +52,4 @@
 
 
 ---
-_Open to opportunities in data analysis, engineering, or related fields. Always eager to tackle complex datasets and drive efficiency!_
+_Open to opportunities in software development, engineering, or related fields._
